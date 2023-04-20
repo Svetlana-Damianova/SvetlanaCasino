@@ -33,6 +33,7 @@ public class JUnitannotations {
             Thread.sleep(1000);
             driver.manage().window().maximize();
             Thread.sleep(1000);
+            //svetlanacasino
 
 
         }
